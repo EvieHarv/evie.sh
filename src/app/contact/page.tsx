@@ -8,7 +8,15 @@ export default function ContactPage() {
     <StandardPageWrapper>
       <Heading>contact me</Heading>
       <hr />
-      <Par>carrier pigeon</Par>
+      <Par>
+        my dream is to someday receive communication via carrier pigeon. i just
+        think it'd be neat.
+      </Par>
+      <br />
+      <Par>however that seems unlikely, so you could try email instead:</Par>
+      <Par>
+        <b>evie (@) evie.sh</b> is gonna be the best address for that right now
+      </Par>
     </StandardPageWrapper>
   );
 }

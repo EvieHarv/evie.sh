@@ -13,7 +13,7 @@ export default function Header() {
         <LinksContainer>
           <Link href="/">home</Link>
           <Link href="/about">about</Link>
-          <Link href="/projects">projects</Link>
+          {/* <Link href="/projects">projects</Link> */}
           <Link href="/contact">contact</Link>
         </LinksContainer>
       </WidthContainer>
