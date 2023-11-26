@@ -1,0 +1,14 @@
+"use client";
+
+import StandardPageWrapper from "@/components/StandardPageWrapper";
+import { Heading, Par } from "@/components/StyledSmalls";
+
+export default function ContactPage() {
+  return (
+    <StandardPageWrapper>
+      <Heading>contact me</Heading>
+      <hr />
+      <Par>carrier pigeon</Par>
+    </StandardPageWrapper>
+  );
+}
