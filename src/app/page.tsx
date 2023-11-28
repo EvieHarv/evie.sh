@@ -25,10 +25,8 @@ export default function Home() {
       <hr />
       <Par>
         my recent project has been{" "}
-        <StyledLink href="https://eee.evie.sh/playground/huffman">
-          eee.evie.sh
-        </StyledLink>
-        , which you can see some of the code for{" "}
+        <StyledLink href="https://eee.evie.sh">eee.evie.sh</StyledLink>, which
+        you can see some of the code for{" "}
         <StyledLink href="https://github.com/EvieHarv/compression/blob/main/src/components/mafs/TreeVisualization.tsx">
           here
         </StyledLink>
